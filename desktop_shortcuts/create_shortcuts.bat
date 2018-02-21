@@ -6,4 +6,4 @@
 ::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-cscript link.vbs "C:\users\public\Desktop\google.com.url" https://google.com
+cscript create_shortcuts.vbs "C:\users\public\Desktop\google.com.url" https://google.com
